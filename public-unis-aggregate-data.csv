@@ -1,0 +1,404 @@
+year,qatari-males,qatari-females,qatari-aggregate,non-qatari-males,non-qatari-females,non-qatari-aggregate,male-aggregate,female-aggregate,overall-aggregate,degree,university,education-level
+2023,178,381,559,18,12,30,196,393,589,Community College ,Community College ,Pre-University Diploma
+2023,2,0,2,  ,0,9,11,0,11,Ras Laffan Emergency & Safety College ,Ras Laffan College ,Pre-University Diploma
+2023,29,5,34,35,3,38,64,8,72,Qatar Aeronautical Academy,Qatar Aeronautical Academy,Pre-University Diploma
+2023,60,8,68,87,47,134,147,55,202,University of Doha for Science and Technology,University of Doha for Science and Technology,Pre-University Diploma
+2023,6,353,359,27,114,141,33,467,500,B.A in Education,Qatar University,Bachelor
+2023,97,744,841,33,268,301,130,1012,1142,B.A in Art & science,Qatar University,Bachelor
+2023,6,49,55,5,36,41,11,85,96,B.A in Sharia & Islamic Studies,Qatar University,Bachelor
+2023,32,162,194,165,89,254,197,251,448,B.Sc. in Engineering,Qatar University,Bachelor
+2023,125,543,668,58,129,187,183,672,855,B.Sc. in Administration & Economics,Qatar University,Bachelor
+2023,68,249,317,9,46,55,77,295,372,B.Sc. in Law,Qatar University,Bachelor
+2023,0,26,26,0,29,29,0,55,55,B.Sc in Health Sciences,Qatar University,Bachelor
+2023,0,4,4,0,27,27,0,31,31,B.Sc. in Pharmacy,Qatar University,Bachelor
+2023,3,21,24,10,19,29,13,40,53,B.Sc.in Medicine,Qatar University,Bachelor
+2023,23,0,23,14,11,25,37,11,48,B.Sc. From Ras Laffan Emergency and Safety College,Ras Laffan College,Bachelor
+2023,1,0,1,0,0,0,1,0,1,Bachelor of Applied Science in Maintenance Engineering Technology,University of Doha for Science and Technology,Bachelor
+2023,4,6,10,21,31,52,25,37,62,Bachelor of Business Administration in Applied Accounting,University of Doha for Science and Technology,Bachelor
+2023,1,0,1,5,9,14,6,9,15,Bachelor of Business Administration in Banking and Financial Technology,University of Doha for Science and Technology,Bachelor
+2023,9,6,15,18,25,43,27,31,58,Bachelor of Business Administration in Digital Marketing,University of Doha for Science and Technology,Bachelor
+2023,5,9,14,9,30,39,14,39,53,Bachelor of Business Administration in Human Resource Management,University of Doha for Science and Technology,Bachelor
+2023,22,5,27,17,29,46,39,34,73,Bachelor of Science in Chemical Engineering - Processing Engineering,University of Doha for Science and Technology,Bachelor
+2023,0,0,0,1,17,18,1,17,18,Bachelor of Science in Dental Hygiene,University of Doha for Science and Technology,Bachelor
+2023,2,2,4,27,18,45,29,20,49,Bachelor of Science in Electrical Engineering - Telecommunications and Network Engineering,University of Doha for Science and Technology,Bachelor
+2023,0,3,3,2,13,15,2,16,18,Bachelor of Science in Environmental Health,University of Doha for Science and Technology,Bachelor
+2023,0,0,0,8,14,22,8,14,22,Bachelor of Science in Information Systems,University of Doha for Science and Technology,Bachelor
+2023,4,4,8,14,6,20,18,10,28,Bachelor of Science in Information Technology,University of Doha for Science and Technology,Bachelor
+2023,7,0,7,33,3,36,40,3,43,Bachelor of Science in Mechanical Engineering - Maintenance Engineering,University of Doha for Science and Technology,Bachelor
+2023,0,2,2,4,41,45,4,43,47,Bachelor of Science in Medical Radiography,University of Doha for Science and Technology,Bachelor
+2023,1,1,2,4,3,7,5,4,9,"Bachelor of Science in Occupational Health, Safety, and Environment",University of Doha for Science and Technology,Bachelor
+2023,0,0,0,6,5,11,6,5,11,Bachelor of Science in Paramedicine,University of Doha for Science and Technology,Bachelor
+2023,0,4,4,5,19,24,5,23,28,Bachelor of Science in Pharmacy Technology,University of Doha for Science and Technology,Bachelor
+2023,0,0,0,5,30,35,5,30,35,Bachelor of Science in Respiratory Therapy,University of Doha for Science and Technology,Bachelor
+2023,24,58,82,5,2,7,29,60,89,Bachelor of Arts in Public Administration,Community College,Bachelor
+2023,16,13,29,3,2,5,19,15,34,Bachelor of Science in Information Technology - Cyber and Network Security Concentration,Community College,Bachelor
+2023,0,8,8,0,0,0,0,8,8,Bachelor of Science in Electrical Engineering Technology,Community College,Bachelor
+2023,39,27,66,2,0,2,41,27,68,Bachelor of Science in Logistics and Supply Chain Management,Community College,Bachelor
+2023,12,2,14,0,1,1,12,3,15,Bachelor of Science in Mechanical Engineering Technology,Community College,Bachelor
+2023,4,22,26,0,1,1,4,23,27,Bachelor of Human Resources Management ,Community College,Bachelor
+2023,10,16,26,0,3,3,10,19,29,Bachelor of Project Management,Community College,Bachelor
+2023,0,0,0,0,1,1,0,1,1,Diploma in Primary Education,Qatar University,Diploma
+2023,0,3,3,0,3,3,0,6,6,Early Childhood Education,Qatar University,Diploma
+2023,0,2,2,3,5,8,3,7,10,Primary Education,Qatar University,Diploma
+2023,1,0,1,5,1,6,6,1,7,Secondary Education,Qatar University,Diploma
+2023,0,1,1,8,4,12,8,5,13,Special Education,Qatar University,Diploma
+2023,0,0,0,1,4,5,1,4,5,Applied Statistics,Qatar University,Masters
+2023,0,1,1,0,4,4,0,5,5,Arabic Language & Literature,Qatar University,Masters
+2023,0,0,0,0,7,7,0,7,7,Environmental Sciences,Qatar University,Masters
+2023,1,2,3,3,1,4,4,3,7,Gulf Studies,Qatar University,Masters
+2023,0,0,0,1,5,6,1,5,6,Material Sci and Technology,Qatar University,Masters
+2023,1,4,5,3,2,5,4,6,10,Accounting,Qatar University,Masters
+2023,2,4,6,7,4,11,9,8,17,Business Administration,Qatar University,Masters
+2023,0,2,2,1,3,4,1,5,6,Finance,Qatar University,Masters
+2023,0,4,4,0,5,5,0,9,9,Marketing,Qatar University,Masters
+2023,0,2,2,0,6,6,0,8,8,"Curriculum,Instruc. & Assessm.",Qatar University,Masters
+2023,0,6,6,0,0,0,0,6,6,Educational Leadership,Qatar University,Masters
+2023,0,3,3,0,4,4,0,7,7,Special Education,Qatar University,Masters
+2023,0,0,0,10,0,10,10,0,10,Civil Engineering,Qatar University,Masters
+2023,1,1,2,2,6,8,3,7,10,Computing,Qatar University,Masters
+2023,0,0,0,3,2,5,3,2,5,Electrical Engineering,Qatar University,Masters
+2023,3,8,11,3,3,6,6,11,17,Engineering Management,Qatar University,Masters
+2023,0,0,0,3,13,16,3,13,16,Environmental Engineering,Qatar University,Masters
+2023,0,0,0,0,1,1,0,1,1,Gas and Process Engineering,Qatar University,Masters
+2023,0,0,0,11,1,12,11,1,12,Mechanical Engineering,Qatar University,Masters
+2023,0,1,1,1,4,5,1,5,6,Urban Planning,Qatar University,Masters
+2023,0,0,0,0,8,8,0,8,8,Biomedical Sciences,Qatar University,Masters
+2023,0,0,0,0,2,2,0,2,2,Genetic Counselling,Qatar University,Masters
+2023,0,0,0,0,4,4,0,4,4,Human Nutrition,Qatar University,Masters
+2023,0,1,1,1,3,4,1,4,5,Public Health,Qatar University,Masters
+2023,4,10,14,1,2,3,5,12,17,Private Law,Qatar University,Masters
+2023,4,13,17,1,1,2,5,14,19,Public Law,Qatar University,Masters
+2023,0,0,0,0,22,22,0,22,22,Pharmacy,Qatar University,Masters
+2023,3,2,5,5,0,5,8,2,10,Fiqh and Usul,Qatar University,Masters
+2023,0,2,2,2,7,9,2,9,11,Quranic Sciences and Exegesis,Qatar University,Masters
+2023,2,3,5,0,4,4,2,7,9,Religions and Creed,Qatar University,Masters
+2023,0,1,1,0,3,3,0,4,4,Master of Science in Diabetes Care and Patient Education,University of Doha for Science and Technology,Masters
+2023,0,7,7,0,1,1,0,8,8,Master of Science in Human Resource Management,University of Doha for Science and Technology,Masters
+2023,0,0,0,0,1,1,0,1,1,Biological and Environmental Sciences,Qatar University,Doctorate
+2023,0,1,1,1,1,2,1,2,3,Gulf Studies,Qatar University,Doctorate
+2023,0,0,0,0,3,3,0,3,3,Business Administration,Qatar University,Doctorate
+2023,0,0,0,0,1,1,0,1,1,Architecture,Qatar University,Doctorate
+2023,0,0,0,1,1,2,1,1,2,Chemical Engineering,Qatar University,Doctorate
+2023,0,0,0,3,0,3,3,0,3,Civil Engineering,Qatar University,Doctorate
+2023,0,0,0,0,1,1,0,1,1,Computer Engineering,Qatar University,Doctorate
+2023,0,0,0,0,2,2,0,2,2,Computer Science,Qatar University,Doctorate
+2023,0,0,0,1,1,2,1,1,2,Electrical Engineering,Qatar University,Doctorate
+2023,0,0,0,2,1,3,2,1,3,Engineering Management,Qatar University,Doctorate
+2023,0,0,0,0,1,1,0,1,1,Environmental Engineering,Qatar University,Doctorate
+2023,0,0,0,1,0,1,1,0,1,Urban Planning,Qatar University,Doctorate
+2023,2,0,2,0,0,0,2,0,2,Law,Qatar University,Doctorate
+2023,0,0,0,1,1,2,1,1,2,Medical Sciences,Qatar University,Doctorate
+2023,0,0,0,0,1,1,0,1,1,Pharmaceutical Sciences,Qatar University,Doctorate
+2023,2,1,3,2,0,2,4,1,5,Fiqh and Usul,Qatar University,Doctorate
+2022,179,428,607,17,25,42,196,453,649,Community College ,Community College,Pre-University Diploma
+2022,14,0,14,1,0,1,15,0,15,Ras Laffan Emergency & Safety College ,Ras Laffan College,Pre-University Diploma
+2022,13,3,16,34,3,37,47,6,53,Qatar Aeronautical Academy,Qatar Aeronautical Academy,Pre-University Diploma
+2022,91,5,96,96,78,174,187,83,270,University of Doha for Science and Technology,University of Doha for Science and Technology,Pre-University Diploma
+2022,4,330,334,22,126,148,26,456,482,B.A in Education,Qatar University,Bachelor
+2022,97,777,874,53,222,275,150,999,1149,B.A in Art & science,Qatar University,Bachelor
+2022,3,40,43,12,34,46,15,74,89,B.A in Sharia & Islamic Studies,Qatar University,Bachelor
+2022,31,123,154,128,68,196,159,191,350,B.Sc. in Engineering,Qatar University,Bachelor
+2022,125,590,715,72,115,187,197,705,902,B.Sc. in Administration & Economics,Qatar University,Bachelor
+2022,57,244,301,17,29,46,74,273,347,B.Sc. in Law,Qatar University,Bachelor
+2022,0,22,22,0,52,52,0,74,74,B.Sc in Health Sciences,Qatar University,Bachelor
+2022,0,3,3,0,33,33,0,36,36,B.Sc. in Pharmacy,Qatar University,Bachelor
+2022,2,20,22,12,25,37,14,45,59,B.Sc.in Medicine,Qatar University,Bachelor
+2022,16,0,16,0,0,0,16,0,16,B.Sc. From Ras Laffan Emergency and Safety College,Ras Laffan College,Bachelor
+2022,1,0,1,7,8,15,8,8,16,Bachelor of Applied Business Administration in Applied Accounting,University of Doha for Science and Technology,Bachelor
+2022,0,0,0,0,3,3,0,3,3,Bachelor of Applied Business Administration in Banking and Financial Technology,University of Doha for Science and Technology,Bachelor
+2022,5,4,9,7,11,18,12,15,27,Bachelor of Applied Business Administration in Digital Marketing,University of Doha for Science and Technology,Bachelor
+2022,11,4,15,5,22,27,16,26,42,Bachelor of Applied Business Administration in Human Resources Management,University of Doha for Science and Technology,Bachelor
+2022,0,0,0,6,4,10,6,4,10,Bachelor of Applied Science in Information Technology,University of Doha for Science and Technology,Bachelor
+2022,9,0,9,1,1,2,10,1,11,Bachelor of Science in Applied Chemical and Processing Engineering,University of Doha for Science and Technology,Bachelor
+2022,13,1,14,23,1,24,36,2,38,Bachelor of Science in Applied Maintenance Engineering Technology,University of Doha for Science and Technology,Bachelor
+2022,1,0,1,3,1,4,4,1,5,Bachelor of Science in Applied Telecommunications and Network Engineering,University of Doha for Science and Technology,Bachelor
+2022,0,1,1,1,8,9,1,9,10,Bachelor of Applied Science in Dental Hygiene,University of Doha for Science and Technology,Bachelor
+2022,0,2,2,1,8,9,1,10,11,Bachelor of Applied Science in Environmental Health,University of Doha for Science and Technology,Bachelor
+2022,1,2,3,0,7,7,1,9,10,Bachelor of Applied Science in Medical Radiography,University of Doha for Science and Technology,Bachelor
+2022,0,1,1,0,8,8,0,9,9,Bachelor of Applied Science in Respiratory Therapy,University of Doha for Science and Technology,Bachelor
+2022,45,96,141,4,3,7,49,99,148,BA in Public Administration ,Community College,Bachelor
+2022,16,18,34,1,1,2,17,19,36,BS in Cyber & Network Security ,Community College,Bachelor
+2022,5,3,8,2,1,3,7,4,11,BS in Electrical Engineering Technology,Community College,Bachelor
+2022,32,50,82,1,3,4,33,53,86,Bachelor of Logistics and Supply Chain Management,Community College,Bachelor
+2022,5,4,9,1,1,2,6,5,11,BS in Mechanical Engineering Technology,Community College,Bachelor
+2022,0,1,1,2,7,9,2,8,10,Primary Education,Qatar University,Diploma
+2022,0,2,2,7,2,9,7,4,11,Secondary Education,Qatar University,Diploma
+2022,0,3,3,16,5,21,16,8,24,Special Education,Qatar University,Diploma
+2022,0,4,4,2,4,6,2,8,10,Applied Statistics,Qatar University,Masters
+2022,0,4,4,2,5,7,2,9,11,Arabic Language & Literature,Qatar University,Masters
+2022,8,0,8,0,0,0,8,0,8,Defense studies,Qatar University,Masters
+2022,0,3,3,1,6,7,1,9,10,Environmental Sciences,Qatar University,Masters
+2022,1,2,3,2,1,3,3,3,6,Gulf Studies,Qatar University,Masters
+2022,0,1,1,3,4,7,3,5,8,Materials Science and Technology,Qatar University,Masters
+2022,0,3,3,0,4,4,0,7,7,Accounting,Qatar University,Masters
+2022,1,2,3,5,3,8,6,5,11,Business Administration,Qatar University,Masters
+2022,1,0,1,2,0,2,3,0,3,Finance,Qatar University,Masters
+2022,0,3,3,3,5,8,3,8,11,Marketing,Qatar University,Masters
+2022,0,1,1,0,10,10,0,11,11,"Curriculum, Instruction and Assessment",Qatar University,Masters
+2022,1,6,7,0,5,5,1,11,12,Education Leadership,Qatar University,Masters
+2022,0,4,4,0,8,8,0,12,12,Special Education,Qatar University,Masters
+2022,1,0,1,7,2,9,8,2,10,Computing,Qatar University,Masters
+2022,0,0,0,4,2,6,4,2,6,Electrical Engineering,Qatar University,Masters
+2022,5,2,7,7,7,14,12,9,21,Engineering Management,Qatar University,Masters
+2022,0,0,0,0,4,4,0,4,4,Environmental Engineering,Qatar University,Masters
+2022,0,0,0,6,0,6,6,0,6,Mechanical Engineering,Qatar University,Masters
+2022,0,0,0,1,3,4,1,3,4,Urban Planning and Design,Qatar University,Masters
+2022,0,1,1,0,3,3,0,4,4,Biomedical Sciences,Qatar University,Masters
+2022,0,0,0,0,3,3,0,3,3,Genetic Counselling,Qatar University,Masters
+2022,0,1,1,1,9,10,1,10,11,Public Health,Qatar University,Masters
+2022,2,4,6,4,4,8,6,8,14,Private Law,Qatar University,Masters
+2022,9,8,17,1,1,2,10,9,19,Public Law,Qatar University,Masters
+2022,0,3,3,0,14,14,0,17,17,Pharmacy,Qatar University,Masters
+2022,0,0,0,3,3,6,3,3,6,Fiqh and Usul Al Fiqh,Qatar University,Masters
+2022,1,3,4,1,3,4,2,6,8,Quranic Sciences and Exegesis,Qatar University,Masters
+2022,0,4,4,3,1,4,3,5,8,Religions and Dialogue of Civilizations,Qatar University,Masters
+2022,0,0,0,0,2,2,0,2,2,Master of Science in Diabetes Care and Patient Education,University of Doha for Science and Technology,Masters
+2022,0,0,0,2,2,4,2,2,4,Biological and Environmental Sciences,Qatar University,Doctorate
+2022,0,1,1,0,0,0,0,1,1,Gulf Studies,Qatar University,Doctorate
+2022,0,0,0,0,1,1,0,1,1,Chemical Engineering,Qatar University,Doctorate
+2022,0,0,0,1,0,1,1,0,1,Civil Engineering,Qatar University,Doctorate
+2022,0,0,0,0,6,6,0,6,6,Computer Science,Qatar University,Doctorate
+2022,0,0,0,0,1,1,0,1,1,Electrical Engineering,Qatar University,Doctorate
+2022,2,1,3,2,0,2,4,1,5,Engineering Management,Qatar University,Doctorate
+2022,0,0,0,1,0,1,1,0,1,Industrial and Systems Eng.,Qatar University,Doctorate
+2022,0,0,0,1,0,1,1,0,1,Materials Sci and Engin,Qatar University,Doctorate
+2022,0,0,0,2,0,2,2,0,2,Mechanical Engineering,Qatar University,Doctorate
+2022,0,1,1,0,0,0,0,1,1,Medical Sciences,Qatar University,Doctorate
+2022,0,0,0,1,0,1,1,0,1,Fiqh and Usul Al Fiqh,Qatar University,Doctorate
+2021,235,419,654,25,27,52,260,446,706,Community College ,Community College ,Pre-University Diploma
+2021,0,0,0,0,0,0,0,0,0,Ras Laffan Emergency & Safety College ,Ras Laffan College ,Pre-University Diploma
+2021,27,5,32,24,8,32,51,13,64,Qatar Aeronautical Academy,Qatar Aeronautical Academy,Pre-University Diploma
+2021,102,39,141,263,338,601,365,377,742,University of Doha for Science and Technology,University of Doha for Science and Technology,Pre-University Diploma
+2021,6,259,265,16,68,84,22,327,349, B.A In Education,Qatar University,Bachelor
+2021,117,819,936,48,175,223,165,994,1159,B.A In Art & science,Qatar University,Bachelor
+2021,5,66,71,11,30,41,16,96,112,B.A In Sharia & Islamic Studies,Qatar University,Bachelor
+2021,29,128,157,137,69,206,166,197,363,B.Sc. In Engineering,Qatar University,Bachelor
+2021,127,427,554,75,80,155,202,507,709,"B.Sc. In Admin, & Economics",Qatar University,Bachelor
+2021,78,192,270,8,29,37,86,221,307,B.Sc. In Law,Qatar University,Bachelor
+2021,0,14,14,0,65,65,0,79,79,B.Sc Health Sciences,Qatar University,Bachelor
+2021,0,4,4,0,27,27,0,31,31,B.Sc. Pharmacy,Qatar University,Bachelor
+2021,18,0,18,1,0,1,19,0,19,B.Sc.  Ras Laffan Emergency and Safety College,Ras Laffan College,Bachelor
+2021,3,13,16,12,18,30,15,31,46,B.Sc.Medicine,Qatar University,Bachelor
+2021,7,10,17,2,11,13,9,21,30,"B.Sc. In Admin, & Economics ",University of Doha for Science and Technology,Bachelor
+2021,1,2,3,1,9,10,2,11,13,B.Sc - Medical Radiography,University of Doha for Science and Technology,Bachelor
+2021,65,100,165,5,5,10,70,105,175,B.SC - of Arts in Public Administration,Community College,Bachelor
+2021,0,7,7,0,1,1,0,8,8,Bachelor of Science in Electrical Engineering Technology ,Community College,Bachelor
+2021,5,17,22,2,3,5,7,20,27,Bachelor of Science in Information Technology - Cyber and Network Security,Community College,Bachelor
+2021,0,9,9,0,21,21,0,30,30,Primary Education,Qatar University,Diploma
+2021,0,12,12,23,9,32,23,21,44,Special Education,Qatar University,Diploma
+2021,0,1,1,3,7,10,3,8,11,Secondary Education,Qatar University,Diploma
+2021,15,5,20,33,20,53,48,25,73,Jossor Institute / Higher Diploma Bocconi College,Jossor Institute,Diploma
+2021,1,5,6,1,11,12,2,16,18,"Curriculum,Instruc. & Assessm.",Qatar University,Masters
+2021,0,5,5,0,10,10,0,15,15,Education Leadership,Qatar University,Masters
+2021,0,2,2,0,5,5,0,7,7,Special Education,Qatar University,Masters
+2021,0,0,0,2,5,7,2,5,7,Applied Statistics,Qatar University,Masters
+2021,0,3,3,1,6,7,1,9,10,Arabic Language & Literature,Qatar University,Masters
+2021,20,0,20,2,0,2,22,0,22,Defense studies,Qatar University,Masters
+2021,0,0,0,3,6,9,3,6,9,Environmental Sciences,Qatar University,Masters
+2021,1,3,4,1,3,4,2,6,8,Gulf Studies,Qatar University,Masters
+2021,0,0,0,2,7,9,2,7,9,Material Sci and Technology,Qatar University,Masters
+2021,0,2,2,2,7,9,2,9,11,Accounting,Qatar University,Masters
+2021,1,1,2,1,5,6,2,6,8,Business Administration,Qatar University,Masters
+2021,1,5,6,1,7,8,2,12,14,Marketing,Qatar University,Masters
+2021,0,0,0,1,0,1,1,0,1,Civil Engineering,Qatar University,Masters
+2021,0,3,3,8,6,14,8,9,17,Computing,Qatar University,Masters
+2021,1,0,1,4,4,8,5,4,9,Electrical Engineering,Qatar University,Masters
+2021,5,8,13,6,5,11,11,13,24,Engineering Management,Qatar University,Masters
+2021,0,0,0,4,3,7,4,3,7,Environmental Engineering,Qatar University,Masters
+2021,0,0,0,10,1,11,10,1,11,Mechanical Engineering,Qatar University,Masters
+2021,0,1,1,0,2,2,0,3,3,Urban Planning and Design,Qatar University,Masters
+2021,0,5,5,0,6,6,0,11,11,Biomedical Sciences,Qatar University,Masters
+2021,0,0,0,0,2,2,0,2,2,Genetic Counselling,Qatar University,Masters
+2021,0,0,0,3,4,7,3,4,7,Public Health,Qatar University,Masters
+2021,5,11,16,0,3,3,5,14,19,Private Law,Qatar University,Masters
+2021,13,9,22,0,1,1,13,10,23,Public Law,Qatar University,Masters
+2021,0,0,0,1,23,24,1,23,24,Pharmacy,Qatar University,Masters
+2021,4,2,6,2,0,2,6,2,8,Fiqh and Usul Al Fiqh,Qatar University,Masters
+2021,1,3,4,0,5,5,1,8,9,Quranic Sciences and Exegesis,Qatar University,Masters
+2021,2,3,5,0,2,2,2,5,7,Religions & Dialog of Civiliz.,Qatar University,Masters
+2021,0,2,2,0,1,1,0,3,3,Biological & Environmental Sci,Qatar University,Doctorate
+2021,0,0,0,0,2,2,0,2,2,Gulf Studies,Qatar University,Doctorate
+2021,2,1,3,1,1,2,3,2,5,Business Administration,Qatar University,Doctorate
+2021,0,0,0,0,1,1,0,1,1,Civil Engineering,Qatar University,Doctorate
+2021,0,0,0,2,0,2,2,0,2,Electrical Engineering,Qatar University,Doctorate
+2021,0,0,0,1,0,1,1,0,1,Environmental Engineering,Qatar University,Doctorate
+2021,1,0,1,1,1,2,2,1,3,Mechanical Engineering,Qatar University,Doctorate
+2021,0,0,0,1,0,1,1,0,1,Pharmaceutical Sciences,Qatar University,Doctorate
+2020,209,406,615,10,27,37,219,433,652,Community College ,Community College ,Pre-University Diploma
+2020,19,0,19,0,0,0,19,0,19,Ras Laffan Emergency & Safety College ,Ras Laffan College ,Pre-University Diploma
+2020,3,230,233,4,94,98,7,324,331, B.A In Education,Qatar University,Bachelor
+2020,103,609,712,60,183,243,163,792,955,B.A In Art & science,Qatar University,Bachelor
+2020,4,41,45,16,20,36,20,61,81,B.A In Sharia & Islamic Studies,Qatar University,Bachelor
+2020,33,110,143,189,95,284,222,205,427,B.Sc. In Engineering,Qatar University,Bachelor
+2020,147,470,617,82,112,194,229,582,811,"B.Sc. In Admin, & Economics",Qatar University,Bachelor
+2020,54,161,215,8,16,24,62,177,239,B.Sc. In Law,Qatar University,Bachelor
+2020,0,16,16,0,75,75,0,91,91,B.Sc Health Sciences,Qatar University,Bachelor
+2020,0,0,0,0,21,21,0,21,21,B.Sc. Pharmacy,Qatar University,Bachelor
+2020,12,0,12,1,0,1,13,0,13,B.Sc.  Ras Laffan Emergency and Safety College,Ras Laffan College ,Bachelor
+2020,0,22,22,0,8,8,0,30,30,Primary Education,Qatar University,Diploma
+2020,0,3,3,7,2,9,7,5,12,Special Education,Qatar University,Diploma
+2020,14,18,32,23,22,45,37,40,77,Jossor Institute / Higher Diploma Bocconi College,Jossor Institute,Diploma
+2020,0,0,0,2,4,6,2,4,6,Applied Statistics,Qatar University,Masters
+2020,0,4,4,1,0,1,1,4,5,Arabic Language & Literature,Qatar University,Masters
+2020,1,1,2,0,6,6,1,7,8,Environmental Sciences,Qatar University,Masters
+2020,0,0,0,5,5,10,5,5,10,Material Sci and Technology,Qatar University,Masters
+2020,1,4,5,3,8,11,4,12,16,Accounting,Qatar University,Masters
+2020,4,11,15,4,10,14,8,21,29,Business Administration,Qatar University,Masters
+2020,1,4,5,3,12,15,4,16,20,Marketing,Qatar University,Masters
+2020,1,3,4,0,2,2,1,5,6,"Curriculum,Instruc. & Assessm.",Qatar University,Masters
+2020,0,6,6,0,2,2,0,8,8,Education Leadership,Qatar University,Masters
+2020,0,0,0,0,1,1,0,1,1,Master of Special Education,Qatar University,Masters
+2020,0,5,5,3,1,4,3,6,9,Special Education,Qatar University,Masters
+2020,0,0,0,9,1,10,9,1,10,Civil Engineering,Qatar University,Masters
+2020,1,2,3,2,5,7,3,7,10,Computing,Qatar University,Masters
+2020,0,0,0,2,2,4,2,2,4,Electrical Engineering,Qatar University,Masters
+2020,7,8,15,3,1,4,10,9,19,Engineering Management,Qatar University,Masters
+2020,0,0,0,2,1,3,2,1,3,Environmental Engineering,Qatar University,Masters
+2020,1,0,1,5,0,5,6,0,6,Mechanical Engineering,Qatar University,Masters
+2020,0,1,1,0,1,1,0,2,2,Urban Planning and Design,Qatar University,Masters
+2020,1,3,4,0,5,5,1,8,9,Biomedical Sciences,Qatar University,Masters
+2020,0,0,0,0,10,10,0,10,10,Public Health,Qatar University,Masters
+2020,1,7,8,1,2,3,2,9,11,Private Law,Qatar University,Masters
+2020,5,7,12,1,1,2,6,8,14,Public Law,Qatar University,Masters
+2020,0,1,1,3,17,20,3,18,21,Pharmacy,Qatar University,Masters
+2020,1,4,5,3,3,6,4,7,11,Fiqh and Usul Al Fiqh,Qatar University,Masters
+2020,7,3,10,4,3,7,11,6,17,Quranic Sciences and Exegesis,Qatar University,Masters
+2020,0,0,0,1,0,1,1,0,1,Religions & Dialog of Civiliz.,Qatar University,Masters
+2020,15,10,25,0,0,0,15,10,25,Qatar Leadership Center / Executive Master McDonough School of Business,Qatar Leadership Center,Masters
+2020,0,0,0,2,3,5,2,3,5,Biological & Environmental Sci,Qatar University,Doctorate
+2020,0,0,0,0,1,1,0,1,1,Gulf Studies,Qatar University,Doctorate
+2020,0,0,0,1,1,2,1,1,2,Civil Engineering,Qatar University,Doctorate
+2020,0,0,0,1,0,1,1,0,1,Electrical Engineering,Qatar University,Doctorate
+2020,0,0,0,1,0,1,1,0,1,Engineering Management,Qatar University,Doctorate
+2020,0,1,1,1,0,1,1,1,2,Material Sci and Engin,Qatar University,Doctorate
+2020,0,0,0,1,0,1,1,0,1,Mechanical Engineering,Qatar University,Doctorate
+2019,237,406,643,4,12,16,241,418,659,Community College ,Community College ,Pre-University Diploma
+2019,11,0,11,0,1,1,11,1,12,Ras Laffan Emergency & Safety College ,Ras Laffan College ,Pre-University Diploma
+2019,3,198,201,6,124,130,9,322,331, B.A In Education,Qatar University,Bachelor
+2019,71,540,611,78,260,338,149,800,949,B.A In Art & science,Qatar University,Bachelor
+2019,13,61,74,17,28,45,30,89,119,B.A In Sharia & Islamic Studies,Qatar University,Bachelor
+2019,21,106,127,227,100,327,248,206,454,B.Sc. In Engineering,Qatar University,Bachelor
+2019,154,477,631,59,143,202,213,620,833,"B.Sc. In Admin, & Economics",Qatar University,Bachelor
+2019,33,141,174,14,28,42,47,169,216,B.Sc. In Law,Qatar University,Bachelor
+2019,0,19,19,0,79,79,0,98,98,B.Sc Health Sciences,Qatar University,Bachelor
+2019,0,3,3,0,19,19,0,22,22,B.Sc. Pharmacy,Qatar University,Bachelor
+2019,9,0,9,0,0,0,9,0,9,B.Sc.  Ras Laffan Emergency and Safety College,Ras Laffan College ,Bachelor
+2019,0,2,2,0,5,5,0,7,7,Early Childhood,Qatar University,Diploma
+2019,0,5,5,0,6,6,0,11,11,Primary Education,Qatar University,Diploma
+2019,0,1,1,0,0,0,0,1,1,Secondary Education,Qatar University,Diploma
+2019,0,4,4,7,3,10,7,7,14,Special Education,Qatar University,Diploma
+2019,0,0,0,1,2,3,1,2,3,Applied Statistics,Qatar University,Masters
+2019,1,4,5,1,5,6,2,9,11,Arabic Language & Literature,Qatar University,Masters
+2019,0,1,1,2,4,6,2,5,7,Environmental Sciences,Qatar University,Masters
+2019,0,2,2,1,4,5,1,6,7,Gulf Studies,Qatar University,Masters
+2019,1,1,2,1,2,3,2,3,5,Material Sciences & Technology,Qatar University,Masters
+2019,0,1,1,3,2,5,3,3,6,Accounting,Qatar University,Masters
+2019,1,2,3,6,2,8,7,4,11,Business Administration,Qatar University,Masters
+2019,0,5,5,1,5,6,1,10,11,Marketing,Qatar University,Masters
+2019,0,2,2,1,3,4,1,5,6,"Curriculum,Instruc. & Assessm.",Qatar University,Masters
+2019,0,5,5,1,6,7,1,11,12,Education Leadership,Qatar University,Masters
+2019,0,1,1,0,4,4,0,5,5,Master of Special Education,Qatar University,Masters
+2019,0,0,0,1,1,2,1,1,2,Special Education,Qatar University,Masters
+2019,0,0,0,12,0,12,12,0,12,Civil Engineering,Qatar University,Masters
+2019,0,0,0,2,5,7,2,5,7,Computing,Qatar University,Masters
+2019,0,0,0,2,5,7,2,5,7,Electrical Engineering,Qatar University,Masters
+2019,9,0,9,5,6,11,14,6,20,Engineering Management,Qatar University,Masters
+2019,0,0,0,3,9,12,3,9,12,Environmental Engineering,Qatar University,Masters
+2019,0,0,0,9,1,10,9,1,10,Mechanical Engineering,Qatar University,Masters
+2019,0,3,3,1,2,3,1,5,6,Urban Planning and Design,Qatar University,Masters
+2019,0,5,5,0,3,3,0,8,8,Biomedical Sciences,Qatar University,Masters
+2019,0,0,0,4,5,9,4,5,9,Public Health,Qatar University,Masters
+2019,5,3,8,2,1,3,7,4,11,Private Law,Qatar University,Masters
+2019,7,4,11,0,0,0,7,4,11,Public Law,Qatar University,Masters
+2019,0,0,0,0,17,17,0,17,17,Pharmacy,Qatar University,Masters
+2019,1,5,6,4,3,7,5,8,13,Fiqh & Usul Al Fiqh,Qatar University,Masters
+2019,3,2,5,0,0,0,3,2,5,Quranic Sciences & Exegesis,Qatar University,Masters
+2019,0,0,0,0,2,2,0,2,2,Biological & Environmental Science,Qatar University,Doctorate
+2019,0,0,0,1,0,1,1,0,1,Civil Engineering,Qatar University,Doctorate
+2019,0,0,0,1,0,1,1,0,1,Computer Engineering,Qatar University,Doctorate
+2019,0,0,0,3,2,5,3,2,5,Electrical Engineering,Qatar University,Doctorate
+2019,0,1,1,0,0,0,0,1,1,Engineering Management,Qatar University,Doctorate
+2019,0,0,0,0,1,1,0,1,1,Material Sci and Engin,Qatar University,Doctorate
+2018,223,511,734,3,8,11,226,519,745,Community College ,,Pre-University Diploma
+2018,20,1,21,0,0,0,20,1,21,Ras Laffan Emergency & Safety College ,,Pre-University Diploma
+2018,2,170,172,9,118,127,11,288,299,B.A in Education,,Bachelor
+2018,75,551,626,87,350,437,162,901,1063,B.A In Art & science,,Bachelor
+2018,19,88,107,26,51,77,45,139,184,B.A In Sharia & Islamic Studies,,Bachelor
+2018,23,104,127,199,114,313,222,218,440,B.Sc. In Engineering,,Bachelor
+2018,184,478,662,67,126,193,251,604,855,"B.Sc. In Admin, & Economics",,Bachelor
+2018,43,123,166,8,19,27,51,142,193,B.Sc. In Law,,Bachelor
+2018,0,10,10,0,77,77,0,87,87,B.Sc Health Sciences,,Bachelor
+2018,0,0,0,0,23,23,0,23,23,B.Sc. Pharmacy,,Bachelor
+2018,0,4,4,0,1,1,0,5,5,Early Childhood,,Diploma
+2018,0,0,0,0,7,7,0,7,7,Primary Education,,Diploma
+2018,0,1,1,3,0,3,3,1,4,Secondary Education,,Diploma
+2018,0,7,7,6,0,6,6,7,13,Special Education,,Diploma
+2018,0,1,1,0,1,1,0,2,2,Applied Statistics,,Masters
+2018,0,6,6,1,3,4,1,9,10,Arabic Language & Literature,,Masters
+2018,1,0,1,2,4,6,3,4,7,Environmental Sciences,,Masters
+2018,1,3,4,0,4,4,1,7,8,Gulf Studies,,Masters
+2018,0,0,0,2,4,6,2,4,6,Material Sciences & Technology,,Masters
+2018,0,2,2,1,7,8,1,9,10,Accounting,,Masters
+2018,1,8,9,11,10,21,12,18,30,Business Administration,,Masters
+2018,0,6,6,3,12,15,3,18,21,Marketing,,Masters
+2018,0,1,1,2,5,7,2,6,8,"Curriculum,Instruc. & Assessm.",,Masters
+2018,1,2,3,1,6,7,2,8,10,Education Leadership,,Masters
+2018,0,1,1,0,2,2,0,3,3,Special Education,,Masters
+2018,0,0,0,10,0,10,10,0,10,Civil Engineering,,Masters
+2018,0,1,1,8,7,15,8,8,16,Computing,,Masters
+2018,0,0,0,5,2,7,5,2,7,Electrical Engineering,,Masters
+2018,2,5,7,9,7,16,11,12,23,Engineering Management,,Masters
+2018,0,1,1,3,3,6,3,4,7,Environmental Engineering,,Masters
+2018,0,0,0,7,0,7,7,0,7,Mechanical Engineering,,Masters
+2018,0,0,0,1,6,7,1,6,7,Urban Planning and Design,,Masters
+2018,1,2,3,0,7,7,1,9,10,Biomedical Sciences,,Masters
+2018,0,2,2,5,3,8,5,5,10,Public Health,,Masters
+2018,4,4,8,0,2,2,4,6,10,Private Law,,Masters
+2018,9,8,17,1,,1,10,8,18,Public Law,,Masters
+2018,0,6,6,2,17,19,2,23,25,Pharmacy,,Masters
+2018,1,4,5,7,0,7,8,4,12,Fiqh & Usul Al Fiqh,,Masters
+2018,5,4,9,0,3,3,5,7,12,Quranic Sciences & Exegesis,,Masters
+2018,1,0,1,0,1,1,1,1,2,Biological & Environmental Science,,Doctorate
+2018,0,0,0,1,0,1,1,0,1,Chemical Engineering,,Doctorate
+2018,0,0,0,1,0,1,1,0,1,Computer Science,,Doctorate
+2018,0,0,0,1,1,2,1,1,2,Electrical Engineering,,Doctorate
+2018,2,1,3,0,0,0,2,1,3,Engineering Management,,Doctorate
+2017,229,434,663,1,2,3,230,436,666,Community College ,,Pre-University Diploma
+2017,5,157,162,13,98,111,18,255,273,B.A in Education,,Bachelor
+2017,73,515,588,88,279,367,161,794,955,B.A In Art & science,,Bachelor
+2017,7,91,98,29,55,84,36,146,182,B.A In Sharia & Islamic Studies,,Bachelor
+2017,18,85,103,167,131,298,185,216,401,B.Sc. In Engineering,,Bachelor
+2017,116,463,579,100,134,234,216,579,813,"B.Sc. In Admin, & Economics",,Bachelor
+2017,40,89,129,8,19,27,48,108,156,B.Sc. In Law,,Bachelor
+2017,0,7,7,0,65,65,0,72,72,B.Sc Health Sciences,,Bachelor
+2017,0,3,3,0,21,21,0,24,24,B.Sc. Pharmacy,,Bachelor
+2017,0,4,4,0,1,1,0,5,5,Early Childhood,,Diploma
+2017,0,4,4,0,12,12,0,16,16,Primary Education,,Diploma
+2017,0,2,2,11,6,17,11,8,19,Special Education,,Diploma
+2017,0,2,2,0,4,4,0,6,6,Arabic Language & Literature,,Masters
+2017,0,3,3,3,2,5,3,5,8,Environmental Sciences,,Masters
+2017,0,5,5,1,8,9,1,13,14,Gulf Studies,,Masters
+2017,0,1,1,4,0,4,4,1,5,Material Sciences & Technology,,Masters
+2017,1,3,4,3,3,6,4,6,10,Accounting,,Masters
+2017,7,2,9,3,4,7,10,6,16,Business Administration,,Masters
+2017,0,1,1,0,2,2,0,3,3,"Curriculum,Instruc. & Assessm.",,Masters
+2017,0,9,9,0,3,3,0,12,12,Education Leadership,,Masters
+2017,0,1,1,1,8,9,1,9,10,Special Education,,Masters
+2017,0,0,0,5,0,5,5,0,5,Civil Engineering,,Masters
+2017,1,1,2,3,8,11,4,9,13,Computing,,Masters
+2017,0,0,0,3,2,5,3,2,5,Electrical Engineering,,Masters
+2017,3,3,6,9,6,15,12,9,21,Engineering Management,,Masters
+2017,1,0,1,3,4,7,4,4,8,Environmental Engineering,,Masters
+2017,0,0,0,3,1,4,3,1,4,Mechanical Engineering,,Masters
+2017,1,2,3,0,10,10,1,12,13,Urban Planning and Design,,Masters
+2017,0,0,0,0,1,1,0,1,1,Biomedical Sciences,,Masters
+2017,0,1,1,0,2,2,0,3,3,Public Health,,Masters
+2017,3,5,8,1,1,2,4,6,10,Private Law,,Masters
+2017,3,5,8,0,1,1,3,6,9,Public Law,,Masters
+2017,0,3,3,3,19,22,3,22,25,Pharmacy,,Masters
+2017,4,1,5,3,3,6,7,4,11,Fiqh & Usul Al Fiqh,,Masters
+2017,5,3,8,3,2,5,8,5,13,Quranic Sciences & Exegesis,,Masters
+2017,0,1,1,0,0,0,0,1,1,Biological & Environmental Science,,Doctorate
+2017,0,1,1,0,0,0,0,1,1,Computer Science,,Doctorate
+2017,0,0,0,1,0,1,1,0,1,Civil Engineering,,Doctorate
+2017,0,0,0,0,1,1,0,1,1,Urban Planning and Design,,Doctorate

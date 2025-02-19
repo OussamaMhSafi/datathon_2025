@@ -1,0 +1,404 @@
+year,qatari-males,qatari-females,qatari-aggregate,non-qatari-males,non-qatari-females,non-qatari-aggregate,male-aggregate,female-aggregate,overall-aggregate,degree,university,education-level,latitude,longitude,yoy_growth_rate
+2017,0,2,2,0,4.0,4,0,6,6,Arabic Language & Literature,,Masters,,,
+2017,73,515,588,88,279.0,367,161,794,955,Arts,,Bachelor,,,
+2017,116,463,579,100,134.0,234,216,579,813,Business and Economics,,Bachelor,,,
+2017,0,5,5,1,8.0,9,1,13,14,Business and Economics,,Masters,,,
+2017,1,3,4,3,3.0,6,4,6,10,Business and Economics,,Masters,,,
+2017,7,2,9,3,4.0,7,10,6,16,Business and Economics,,Masters,,,
+2017,1,1,2,3,8.0,11,4,9,13,Computer and Information Sciences,,Masters,,,
+2017,0,1,1,0,0.0,0,0,1,1,Computer and Information Sciences,,Doctorate,,,
+2017,5,157,162,13,98.0,111,18,255,273,Education,,Bachelor,,,
+2017,0,4,4,0,1.0,1,0,5,5,Education,,Diploma,,,
+2017,0,4,4,0,12.0,12,0,16,16,Education,,Diploma,,,
+2017,0,2,2,11,6.0,17,11,8,19,Education,,Diploma,,,
+2017,0,1,1,0,2.0,2,0,3,3,Education,,Masters,,,
+2017,0,9,9,0,3.0,3,0,12,12,Education,,Masters,,,
+2017,0,1,1,1,8.0,9,1,9,10,Education,,Masters,,,
+2017,18,85,103,167,131.0,298,185,216,401,Engineering and Technology,,Bachelor,,,
+2017,0,1,1,4,0.0,4,4,1,5,Engineering and Technology,,Masters,,,
+2017,0,0,0,5,0.0,5,5,0,5,Engineering and Technology,,Masters,,,
+2017,0,0,0,3,2.0,5,3,2,5,Engineering and Technology,,Masters,,,
+2017,3,3,6,9,6.0,15,12,9,21,Engineering and Technology,,Masters,,,
+2017,1,0,1,3,4.0,7,4,4,8,Engineering and Technology,,Masters,,,
+2017,0,0,0,3,1.0,4,3,1,4,Engineering and Technology,,Masters,,,
+2017,1,2,3,0,10.0,10,1,12,13,Engineering and Technology,,Masters,,,
+2017,0,0,0,1,0.0,1,1,0,1,Engineering and Technology,,Doctorate,,,
+2017,0,0,0,0,1.0,1,0,1,1,Engineering and Technology,,Doctorate,,,
+2017,7,91,98,29,55.0,84,36,146,182,Islamic Studies,,Bachelor,,,
+2017,4,1,5,3,3.0,6,7,4,11,Islamic Studies,,Masters,,,
+2017,5,3,8,3,2.0,5,8,5,13,Islamic Studies,,Masters,,,
+2017,40,89,129,8,19.0,27,48,108,156,Law and Legal Studies,,Bachelor,,,
+2017,3,5,8,1,1.0,2,4,6,10,Law and Legal Studies,,Masters,,,
+2017,3,5,8,0,1.0,1,3,6,9,Law and Legal Studies,,Masters,,,
+2017,0,7,7,0,65.0,65,0,72,72,Medical and Health Science,,Bachelor,,,
+2017,0,3,3,0,21.0,21,0,24,24,Medical and Health Science,,Bachelor,,,
+2017,0,3,3,3,2.0,5,3,5,8,Medical and Health Science,,Masters,,,
+2017,0,0,0,0,1.0,1,0,1,1,Medical and Health Science,,Masters,,,
+2017,0,1,1,0,2.0,2,0,3,3,Medical and Health Science,,Masters,,,
+2017,0,3,3,3,19.0,22,3,22,25,Medical and Health Science,,Masters,,,
+2017,0,1,1,0,0.0,0,0,1,1,Medical and Health Science,,Doctorate,,,
+2017,229,434,663,1,2.0,3,230,436,666,Pre-University Diploma,,Pre-University Diploma,,,
+2018,0,6,6,1,3.0,4,1,9,10,Arabic Language & Literature,,Masters,,,66.67
+2018,75,551,626,87,350.0,437,162,901,1063,Arts,,Bachelor,,,11.31
+2018,184,478,662,67,126.0,193,251,604,855,Business and Economics,,Bachelor,,,8.32
+2018,1,3,4,0,4.0,4,1,7,8,Business and Economics,,Masters,,,8.32
+2018,0,2,2,1,7.0,8,1,9,10,Business and Economics,,Masters,,,8.32
+2018,1,8,9,11,10.0,21,12,18,30,Business and Economics,,Masters,,,8.32
+2018,0,6,6,3,12.0,15,3,18,21,Business and Economics,,Masters,,,8.32
+2018,0,1,1,0,1.0,1,0,2,2,Computer and Information Sciences,,Masters,,,35.71
+2018,0,1,1,8,7.0,15,8,8,16,Computer and Information Sciences,,Masters,,,35.71
+2018,0,0,0,1,0.0,1,1,0,1,Computer and Information Sciences,,Doctorate,,,35.71
+2018,2,170,172,9,118.0,127,11,288,299,Education,,Bachelor,,,3.25
+2018,0,4,4,0,1.0,1,0,5,5,Education,,Diploma,,,3.25
+2018,0,0,0,0,7.0,7,0,7,7,Education,,Diploma,,,3.25
+2018,0,1,1,3,0.0,3,3,1,4,Education,,Diploma,,,3.25
+2018,0,7,7,6,0.0,6,6,7,13,Education,,Diploma,,,3.25
+2018,0,1,1,2,5.0,7,2,6,8,Education,,Masters,,,3.25
+2018,1,2,3,1,6.0,7,2,8,10,Education,,Masters,,,3.25
+2018,0,1,1,0,2.0,2,0,3,3,Education,,Masters,,,3.25
+2018,23,104,127,199,114.0,313,222,218,440,Engineering and Technology,,Bachelor,,,10.56
+2018,0,0,0,2,4.0,6,2,4,6,Engineering and Technology,,Masters,,,10.56
+2018,0,0,0,10,0.0,10,10,0,10,Engineering and Technology,,Masters,,,10.56
+2018,0,0,0,5,2.0,7,5,2,7,Engineering and Technology,,Masters,,,10.56
+2018,2,5,7,9,7.0,16,11,12,23,Engineering and Technology,,Masters,,,10.56
+2018,0,1,1,3,3.0,6,3,4,7,Engineering and Technology,,Masters,,,10.56
+2018,0,0,0,7,0.0,7,7,0,7,Engineering and Technology,,Masters,,,10.56
+2018,0,0,0,1,6.0,7,1,6,7,Engineering and Technology,,Masters,,,10.56
+2018,0,0,0,1,0.0,1,1,0,1,Engineering and Technology,,Doctorate,,,10.56
+2018,0,0,0,1,1.0,2,1,1,2,Engineering and Technology,,Doctorate,,,10.56
+2018,2,1,3,0,0.0,0,2,1,3,Engineering and Technology,,Doctorate,,,10.56
+2018,19,88,107,26,51.0,77,45,139,184,Islamic Studies,,Bachelor,,,0.97
+2018,1,4,5,7,0.0,7,8,4,12,Islamic Studies,,Masters,,,0.97
+2018,5,4,9,0,3.0,3,5,7,12,Islamic Studies,,Masters,,,0.97
+2018,43,123,166,8,19.0,27,51,142,193,Law and Legal Studies,,Bachelor,,,26.29
+2018,4,4,8,0,2.0,2,4,6,10,Law and Legal Studies,,Masters,,,26.29
+2018,9,8,17,1,,1,10,8,18,Law and Legal Studies,,Masters,,,26.29
+2018,0,10,10,0,77.0,77,0,87,87,Medical and Health Science,,Bachelor,,,22.39
+2018,0,0,0,0,23.0,23,0,23,23,Medical and Health Science,,Bachelor,,,22.39
+2018,1,0,1,2,4.0,6,3,4,7,Medical and Health Science,,Masters,,,22.39
+2018,1,2,3,0,7.0,7,1,9,10,Medical and Health Science,,Masters,,,22.39
+2018,0,2,2,5,3.0,8,5,5,10,Medical and Health Science,,Masters,,,22.39
+2018,0,6,6,2,17.0,19,2,23,25,Medical and Health Science,,Masters,,,22.39
+2018,1,0,1,0,1.0,1,1,1,2,Medical and Health Science,,Doctorate,,,22.39
+2018,223,511,734,3,8.0,11,226,519,745,Pre-University Diploma,,Pre-University Diploma,,,15.02
+2018,20,1,21,0,0.0,0,20,1,21,Pre-University Diploma,,Pre-University Diploma,,,15.02
+2019,1,4,5,1,5.0,6,2,9,11,Arabic Language & Literature,Qatar University,Masters,25.375,51.4906,10.0
+2019,71,540,611,78,260.0,338,149,800,949,Arts,Qatar University,Bachelor,25.375,51.4906,-10.72
+2019,154,477,631,59,143.0,202,213,620,833,Business and Economics,Qatar University,Bachelor,25.375,51.4906,-6.06
+2019,0,2,2,1,4.0,5,1,6,7,Business and Economics,Qatar University,Masters,25.375,51.4906,-6.06
+2019,0,1,1,3,2.0,5,3,3,6,Business and Economics,Qatar University,Masters,25.375,51.4906,-6.06
+2019,1,2,3,6,2.0,8,7,4,11,Business and Economics,Qatar University,Masters,25.375,51.4906,-6.06
+2019,0,5,5,1,5.0,6,1,10,11,Business and Economics,Qatar University,Masters,25.375,51.4906,-6.06
+2019,0,0,0,1,2.0,3,1,2,3,Computer and Information Sciences,Qatar University,Masters,25.375,51.4906,-42.11
+2019,0,0,0,2,5.0,7,2,5,7,Computer and Information Sciences,Qatar University,Masters,25.375,51.4906,-42.11
+2019,0,0,0,1,0.0,1,1,0,1,Computer and Information Sciences,Qatar University,Doctorate,25.375,51.4906,-42.11
+2019,3,198,201,6,124.0,130,9,322,331,Education,Qatar University,Bachelor,25.375,51.4906,11.46
+2019,0,2,2,0,5.0,5,0,7,7,Education,Qatar University,Diploma,25.375,51.4906,11.46
+2019,0,5,5,0,6.0,6,0,11,11,Education,Qatar University,Diploma,25.375,51.4906,11.46
+2019,0,1,1,0,0.0,0,0,1,1,Education,Qatar University,Diploma,25.375,51.4906,11.46
+2019,0,4,4,7,3.0,10,7,7,14,Education,Qatar University,Diploma,25.375,51.4906,11.46
+2019,0,2,2,1,3.0,4,1,5,6,Education,Qatar University,Masters,25.375,51.4906,11.46
+2019,0,5,5,1,6.0,7,1,11,12,Education,Qatar University,Masters,25.375,51.4906,11.46
+2019,0,1,1,0,4.0,4,0,5,5,Education,Qatar University,Masters,25.375,51.4906,11.46
+2019,0,0,0,1,1.0,2,1,1,2,Education,Qatar University,Masters,25.375,51.4906,11.46
+2019,21,106,127,227,100.0,327,248,206,454,Engineering and Technology,Qatar University,Bachelor,25.375,51.4906,5.85
+2019,1,1,2,1,2.0,3,2,3,5,Engineering and Technology,Qatar University,Masters,25.375,51.4906,5.85
+2019,0,0,0,12,0.0,12,12,0,12,Engineering and Technology,Qatar University,Masters,25.375,51.4906,5.85
+2019,0,0,0,2,5.0,7,2,5,7,Engineering and Technology,Qatar University,Masters,25.375,51.4906,5.85
+2019,9,0,9,5,6.0,11,14,6,20,Engineering and Technology,Qatar University,Masters,25.375,51.4906,5.85
+2019,0,0,0,3,9.0,12,3,9,12,Engineering and Technology,Qatar University,Masters,25.375,51.4906,5.85
+2019,0,0,0,9,1.0,10,9,1,10,Engineering and Technology,Qatar University,Masters,25.375,51.4906,5.85
+2019,0,3,3,1,2.0,3,1,5,6,Engineering and Technology,Qatar University,Masters,25.375,51.4906,5.85
+2019,0,0,0,1,0.0,1,1,0,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,5.85
+2019,0,0,0,3,2.0,5,3,2,5,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,5.85
+2019,0,1,1,0,0.0,0,0,1,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,5.85
+2019,0,0,0,0,1.0,1,0,1,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,5.85
+2019,9,0,9,0,0.0,0,9,0,9,Engineering and Technology,Ras Laffan College ,Bachelor,25.8856,51.43,5.85
+2019,13,61,74,17,28.0,45,30,89,119,Islamic Studies,Qatar University,Bachelor,25.375,51.4906,-34.13
+2019,1,5,6,4,3.0,7,5,8,13,Islamic Studies,Qatar University,Masters,25.375,51.4906,-34.13
+2019,3,2,5,0,0.0,0,3,2,5,Islamic Studies,Qatar University,Masters,25.375,51.4906,-34.13
+2019,33,141,174,14,28.0,42,47,169,216,Law and Legal Studies,Qatar University,Bachelor,25.375,51.4906,7.69
+2019,5,3,8,2,1.0,3,7,4,11,Law and Legal Studies,Qatar University,Masters,25.375,51.4906,7.69
+2019,7,4,11,0,0.0,0,7,4,11,Law and Legal Studies,Qatar University,Masters,25.375,51.4906,7.69
+2019,0,19,19,0,79.0,79,0,98,98,Medical and Health Science,Qatar University,Bachelor,25.375,51.4906,-0.61
+2019,0,3,3,0,19.0,19,0,22,22,Medical and Health Science,Qatar University,Bachelor,25.375,51.4906,-0.61
+2019,0,1,1,2,4.0,6,2,5,7,Medical and Health Science,Qatar University,Masters,25.375,51.4906,-0.61
+2019,0,5,5,0,3.0,3,0,8,8,Medical and Health Science,Qatar University,Masters,25.375,51.4906,-0.61
+2019,0,0,0,4,5.0,9,4,5,9,Medical and Health Science,Qatar University,Masters,25.375,51.4906,-0.61
+2019,0,0,0,0,17.0,17,0,17,17,Medical and Health Science,Qatar University,Masters,25.375,51.4906,-0.61
+2019,0,0,0,0,2.0,2,0,2,2,Medical and Health Science,Qatar University,Doctorate,25.375,51.4906,-0.61
+2019,237,406,643,4,12.0,16,241,418,659,Pre-University Diploma,Community College Of Qatar,Pre-University Diploma,25.2658,51.5161,-12.4
+2019,11,0,11,0,1.0,1,11,1,12,Pre-University Diploma,Ras Laffan College ,Pre-University Diploma,25.8856,51.43,-12.4
+2020,0,4,4,1,0.0,1,1,4,5,Arabic Language & Literature,Qatar University,Masters,25.375,51.4906,-54.55
+2020,103,609,712,60,183.0,243,163,792,955,Arts,Qatar University,Bachelor,25.375,51.4906,0.63
+2020,14,18,32,23,22.0,45,37,40,77,Business and Economics,Jossor Institute,Diploma,25.3165,51.5263,12.79
+2020,15,10,25,0,0.0,0,15,10,25,Business and Economics,Qatar Leadership Center,Masters,25.3165,51.5263,12.79
+2020,147,470,617,82,112.0,194,229,582,811,Business and Economics,Qatar University,Bachelor,25.375,51.4906,12.79
+2020,1,4,5,3,8.0,11,4,12,16,Business and Economics,Qatar University,Masters,25.375,51.4906,12.79
+2020,4,11,15,4,10.0,14,8,21,29,Business and Economics,Qatar University,Masters,25.375,51.4906,12.79
+2020,1,4,5,3,12.0,15,4,16,20,Business and Economics,Qatar University,Masters,25.375,51.4906,12.79
+2020,0,0,0,0,1.0,1,0,1,1,Business and Economics,Qatar University,Doctorate,25.375,51.4906,12.79
+2020,0,0,0,2,4.0,6,2,4,6,Computer and Information Sciences,Qatar University,Masters,25.375,51.4906,45.45
+2020,1,2,3,2,5.0,7,3,7,10,Computer and Information Sciences,Qatar University,Masters,25.375,51.4906,45.45
+2020,3,230,233,4,94.0,98,7,324,331,Education,Qatar University,Bachelor,25.375,51.4906,2.06
+2020,0,22,22,0,8.0,8,0,30,30,Education,Qatar University,Diploma,25.375,51.4906,2.06
+2020,0,3,3,7,2.0,9,7,5,12,Education,Qatar University,Diploma,25.375,51.4906,2.06
+2020,1,3,4,0,2.0,2,1,5,6,Education,Qatar University,Masters,25.375,51.4906,2.06
+2020,0,6,6,0,2.0,2,0,8,8,Education,Qatar University,Masters,25.375,51.4906,2.06
+2020,0,0,0,0,1.0,1,0,1,1,Education,Qatar University,Masters,25.375,51.4906,2.06
+2020,0,5,5,3,1.0,4,3,6,9,Education,Qatar University,Masters,25.375,51.4906,2.06
+2020,33,110,143,189,95.0,284,222,205,427,Engineering and Technology,Qatar University,Bachelor,25.375,51.4906,-7.73
+2020,0,0,0,5,5.0,10,5,5,10,Engineering and Technology,Qatar University,Masters,25.375,51.4906,-7.73
+2020,0,0,0,9,1.0,10,9,1,10,Engineering and Technology,Qatar University,Masters,25.375,51.4906,-7.73
+2020,0,0,0,2,2.0,4,2,2,4,Engineering and Technology,Qatar University,Masters,25.375,51.4906,-7.73
+2020,7,8,15,3,1.0,4,10,9,19,Engineering and Technology,Qatar University,Masters,25.375,51.4906,-7.73
+2020,0,0,0,2,1.0,3,2,1,3,Engineering and Technology,Qatar University,Masters,25.375,51.4906,-7.73
+2020,1,0,1,5,0.0,5,6,0,6,Engineering and Technology,Qatar University,Masters,25.375,51.4906,-7.73
+2020,0,1,1,0,1.0,1,0,2,2,Engineering and Technology,Qatar University,Masters,25.375,51.4906,-7.73
+2020,0,0,0,1,1.0,2,1,1,2,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,-7.73
+2020,0,0,0,1,0.0,1,1,0,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,-7.73
+2020,0,0,0,1,0.0,1,1,0,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,-7.73
+2020,0,1,1,1,0.0,1,1,1,2,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,-7.73
+2020,0,0,0,1,0.0,1,1,0,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,-7.73
+2020,12,0,12,1,0.0,1,13,0,13,Engineering and Technology,Ras Laffan College ,Bachelor,25.8856,51.43,-7.73
+2020,4,41,45,16,20.0,36,20,61,81,Islamic Studies,Qatar University,Bachelor,25.375,51.4906,-19.71
+2020,1,4,5,3,3.0,6,4,7,11,Islamic Studies,Qatar University,Masters,25.375,51.4906,-19.71
+2020,7,3,10,4,3.0,7,11,6,17,Islamic Studies,Qatar University,Masters,25.375,51.4906,-19.71
+2020,0,0,0,1,0.0,1,1,0,1,Islamic Studies,Qatar University,Masters,25.375,51.4906,-19.71
+2020,54,161,215,8,16.0,24,62,177,239,Law and Legal Studies,Qatar University,Bachelor,25.375,51.4906,10.92
+2020,1,7,8,1,2.0,3,2,9,11,Law and Legal Studies,Qatar University,Masters,25.375,51.4906,10.92
+2020,5,7,12,1,1.0,2,6,8,14,Law and Legal Studies,Qatar University,Masters,25.375,51.4906,10.92
+2020,0,16,16,0,75.0,75,0,91,91,Medical and Health Science,Qatar University,Bachelor,25.375,51.4906,1.23
+2020,0,0,0,0,21.0,21,0,21,21,Medical and Health Science,Qatar University,Bachelor,25.375,51.4906,1.23
+2020,1,1,2,0,6.0,6,1,7,8,Medical and Health Science,Qatar University,Masters,25.375,51.4906,1.23
+2020,1,3,4,0,5.0,5,1,8,9,Medical and Health Science,Qatar University,Masters,25.375,51.4906,1.23
+2020,0,0,0,0,10.0,10,0,10,10,Medical and Health Science,Qatar University,Masters,25.375,51.4906,1.23
+2020,0,1,1,3,17.0,20,3,18,21,Medical and Health Science,Qatar University,Masters,25.375,51.4906,1.23
+2020,0,0,0,2,3.0,5,2,3,5,Medical and Health Science,Qatar University,Doctorate,25.375,51.4906,1.23
+2020,209,406,615,10,27.0,37,219,433,652,Pre-University Diploma,Community College Of Qatar,Pre-University Diploma,25.2658,51.5161,0.0
+2020,19,0,19,0,0.0,0,19,0,19,Pre-University Diploma,Ras Laffan College ,Pre-University Diploma,25.8856,51.43,0.0
+2021,0,3,3,1,6.0,7,1,9,10,Arabic Language & Literature,Qatar University,Masters,25.375,51.4906,100.0
+2021,117,819,936,48,175.0,223,165,994,1159,Arts,Qatar University,Bachelor,25.375,51.4906,21.36
+2021,65,100,165,5,5.0,10,70,105,175,Business and Economics,Community College Of Qatar,Bachelor,25.2658,51.5161,5.72
+2021,15,5,20,33,20.0,53,48,25,73,Business and Economics,Jossor Institute,Diploma,25.3165,51.5263,5.72
+2021,127,427,554,75,80.0,155,202,507,709,Business and Economics,Qatar University,Bachelor,25.375,51.4906,5.72
+2021,1,3,4,1,3.0,4,2,6,8,Business and Economics,Qatar University,Masters,25.375,51.4906,5.72
+2021,0,2,2,2,7.0,9,2,9,11,Business and Economics,Qatar University,Masters,25.375,51.4906,5.72
+2021,1,1,2,1,5.0,6,2,6,8,Business and Economics,Qatar University,Masters,25.375,51.4906,5.72
+2021,1,5,6,1,7.0,8,2,12,14,Business and Economics,Qatar University,Masters,25.375,51.4906,5.72
+2021,0,0,0,0,2.0,2,0,2,2,Business and Economics,Qatar University,Doctorate,25.375,51.4906,5.72
+2021,2,1,3,1,1.0,2,3,2,5,Business and Economics,Qatar University,Doctorate,25.375,51.4906,5.72
+2021,7,10,17,2,11.0,13,9,21,30,Business and Economics,University of Doha for Science and Technology,Bachelor,25.3604,51.481,5.72
+2021,5,17,22,2,3.0,5,7,20,27,Computer and Information Sciences,Community College Of Qatar,Bachelor,25.2658,51.5161,218.75
+2021,0,0,0,2,5.0,7,2,5,7,Computer and Information Sciences,Qatar University,Masters,25.375,51.4906,218.75
+2021,0,3,3,8,6.0,14,8,9,17,Computer and Information Sciences,Qatar University,Masters,25.375,51.4906,218.75
+2021,6,259,265,16,68.0,84,22,327,349,Education,Qatar University,Bachelor,25.375,51.4906,19.4
+2021,0,9,9,0,21.0,21,0,30,30,Education,Qatar University,Diploma,25.375,51.4906,19.4
+2021,0,12,12,23,9.0,32,23,21,44,Education,Qatar University,Diploma,25.375,51.4906,19.4
+2021,0,1,1,3,7.0,10,3,8,11,Education,Qatar University,Diploma,25.375,51.4906,19.4
+2021,1,5,6,1,11.0,12,2,16,18,Education,Qatar University,Masters,25.375,51.4906,19.4
+2021,0,5,5,0,10.0,10,0,15,15,Education,Qatar University,Masters,25.375,51.4906,19.4
+2021,0,2,2,0,5.0,5,0,7,7,Education,Qatar University,Masters,25.375,51.4906,19.4
+2021,0,7,7,0,1.0,1,0,8,8,Engineering and Technology,Community College Of Qatar,Bachelor,25.2658,51.5161,-4.99
+2021,29,128,157,137,69.0,206,166,197,363,Engineering and Technology,Qatar University,Bachelor,25.375,51.4906,-4.99
+2021,20,0,20,2,0.0,2,22,0,22,Engineering and Technology,Qatar University,Masters,25.375,51.4906,-4.99
+2021,0,0,0,2,7.0,9,2,7,9,Engineering and Technology,Qatar University,Masters,25.375,51.4906,-4.99
+2021,0,0,0,1,0.0,1,1,0,1,Engineering and Technology,Qatar University,Masters,25.375,51.4906,-4.99
+2021,1,0,1,4,4.0,8,5,4,9,Engineering and Technology,Qatar University,Masters,25.375,51.4906,-4.99
+2021,5,8,13,6,5.0,11,11,13,24,Engineering and Technology,Qatar University,Masters,25.375,51.4906,-4.99
+2021,0,0,0,10,1.0,11,10,1,11,Engineering and Technology,Qatar University,Masters,25.375,51.4906,-4.99
+2021,0,1,1,0,2.0,2,0,3,3,Engineering and Technology,Qatar University,Masters,25.375,51.4906,-4.99
+2021,0,0,0,0,1.0,1,0,1,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,-4.99
+2021,0,0,0,2,0.0,2,2,0,2,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,-4.99
+2021,0,0,0,1,0.0,1,1,0,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,-4.99
+2021,1,0,1,1,1.0,2,2,1,3,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,-4.99
+2021,18,0,18,1,0.0,1,19,0,19,Engineering and Technology,Ras Laffan College,Bachelor,25.8856,51.43,-4.99
+2021,5,66,71,11,30.0,41,16,96,112,Islamic Studies,Qatar University,Bachelor,25.375,51.4906,23.64
+2021,4,2,6,2,0.0,2,6,2,8,Islamic Studies,Qatar University,Masters,25.375,51.4906,23.64
+2021,1,3,4,0,5.0,5,1,8,9,Islamic Studies,Qatar University,Masters,25.375,51.4906,23.64
+2021,2,3,5,0,2.0,2,2,5,7,Islamic Studies,Qatar University,Masters,25.375,51.4906,23.64
+2021,78,192,270,8,29.0,37,86,221,307,Law and Legal Studies,Qatar University,Bachelor,25.375,51.4906,32.2
+2021,5,11,16,0,3.0,3,5,14,19,Law and Legal Studies,Qatar University,Masters,25.375,51.4906,32.2
+2021,13,9,22,0,1.0,1,13,10,23,Law and Legal Studies,Qatar University,Masters,25.375,51.4906,32.2
+2021,0,14,14,0,65.0,65,0,79,79,Medical and Health Science,Qatar University,Bachelor,25.375,51.4906,41.21
+2021,0,4,4,0,27.0,27,0,31,31,Medical and Health Science,Qatar University,Bachelor,25.375,51.4906,41.21
+2021,3,13,16,12,18.0,30,15,31,46,Medical and Health Science,Qatar University,Bachelor,25.375,51.4906,41.21
+2021,0,0,0,3,6.0,9,3,6,9,Medical and Health Science,Qatar University,Masters,25.375,51.4906,41.21
+2021,0,0,0,4,3.0,7,4,3,7,Medical and Health Science,Qatar University,Masters,25.375,51.4906,41.21
+2021,0,5,5,0,6.0,6,0,11,11,Medical and Health Science,Qatar University,Masters,25.375,51.4906,41.21
+2021,0,0,0,0,2.0,2,0,2,2,Medical and Health Science,Qatar University,Masters,25.375,51.4906,41.21
+2021,0,0,0,3,4.0,7,3,4,7,Medical and Health Science,Qatar University,Masters,25.375,51.4906,41.21
+2021,0,0,0,1,23.0,24,1,23,24,Medical and Health Science,Qatar University,Masters,25.375,51.4906,41.21
+2021,0,2,2,0,1.0,1,0,3,3,Medical and Health Science,Qatar University,Doctorate,25.375,51.4906,41.21
+2021,0,0,0,1,0.0,1,1,0,1,Medical and Health Science,Qatar University,Doctorate,25.375,51.4906,41.21
+2021,1,2,3,1,9.0,10,2,11,13,Medical and Health Science,University of Doha for Science and Technology,Bachelor,25.3604,51.481,41.21
+2021,235,419,654,25,27.0,52,260,446,706,Pre-University Diploma,Community College Of Qatar,Pre-University Diploma,25.2658,51.5161,125.34
+2021,27,5,32,24,8.0,32,51,13,64,Pre-University Diploma,Qatar Aeronautical Academy,Pre-University Diploma,25.2799,51.5692,125.34
+2021,0,0,0,0,0.0,0,0,0,0,Pre-University Diploma,Ras Laffan College ,Pre-University Diploma,25.8856,51.43,125.34
+2021,102,39,141,263,338.0,601,365,377,742,Pre-University Diploma,University of Doha for Science and Technology,Pre-University Diploma,25.3604,51.481,125.34
+2022,0,4,4,2,5.0,7,2,9,11,Arabic Language & Literature,Qatar University,Masters,25.375,51.4906,10.0
+2022,97,777,874,53,222.0,275,150,999,1149,Arts,Qatar University,Bachelor,25.375,51.4906,-0.86
+2022,45,96,141,4,3.0,7,49,99,148,Business and Economics,Community College Of Qatar,Bachelor,25.2658,51.5161,22.03
+2022,32,50,82,1,3.0,4,33,53,86,Business and Economics,Community College Of Qatar,Bachelor,25.2658,51.5161,22.03
+2022,125,590,715,72,115.0,187,197,705,902,Business and Economics,Qatar University,Bachelor,25.375,51.4906,22.03
+2022,1,2,3,2,1.0,3,3,3,6,Business and Economics,Qatar University,Masters,25.375,51.4906,22.03
+2022,0,3,3,0,4.0,4,0,7,7,Business and Economics,Qatar University,Masters,25.375,51.4906,22.03
+2022,1,2,3,5,3.0,8,6,5,11,Business and Economics,Qatar University,Masters,25.375,51.4906,22.03
+2022,1,0,1,2,0.0,2,3,0,3,Business and Economics,Qatar University,Masters,25.375,51.4906,22.03
+2022,0,3,3,3,5.0,8,3,8,11,Business and Economics,Qatar University,Masters,25.375,51.4906,22.03
+2022,0,1,1,0,0.0,0,0,1,1,Business and Economics,Qatar University,Doctorate,25.375,51.4906,22.03
+2022,1,0,1,7,8.0,15,8,8,16,Business and Economics,University of Doha for Science and Technology,Bachelor,25.3604,51.481,22.03
+2022,0,0,0,0,3.0,3,0,3,3,Business and Economics,University of Doha for Science and Technology,Bachelor,25.3604,51.481,22.03
+2022,5,4,9,7,11.0,18,12,15,27,Business and Economics,University of Doha for Science and Technology,Bachelor,25.3604,51.481,22.03
+2022,11,4,15,5,22.0,27,16,26,42,Business and Economics,University of Doha for Science and Technology,Bachelor,25.3604,51.481,22.03
+2022,16,18,34,1,1.0,2,17,19,36,Computer and Information Sciences,Community College Of Qatar,Bachelor,25.2658,51.5161,41.18
+2022,0,4,4,2,4.0,6,2,8,10,Computer and Information Sciences,Qatar University,Masters,25.375,51.4906,41.18
+2022,1,0,1,7,2.0,9,8,2,10,Computer and Information Sciences,Qatar University,Masters,25.375,51.4906,41.18
+2022,0,0,0,0,6.0,6,0,6,6,Computer and Information Sciences,Qatar University,Doctorate,25.375,51.4906,41.18
+2022,0,0,0,6,4.0,10,6,4,10,Computer and Information Sciences,University of Doha for Science and Technology,Bachelor,25.3604,51.481,41.18
+2022,4,330,334,22,126.0,148,26,456,482,Education,Qatar University,Bachelor,25.375,51.4906,18.57
+2022,0,1,1,2,7.0,9,2,8,10,Education,Qatar University,Diploma,25.375,51.4906,18.57
+2022,0,2,2,7,2.0,9,7,4,11,Education,Qatar University,Diploma,25.375,51.4906,18.57
+2022,0,3,3,16,5.0,21,16,8,24,Education,Qatar University,Diploma,25.375,51.4906,18.57
+2022,0,1,1,0,10.0,10,0,11,11,Education,Qatar University,Masters,25.375,51.4906,18.57
+2022,1,6,7,0,5.0,5,1,11,12,Education,Qatar University,Masters,25.375,51.4906,18.57
+2022,0,4,4,0,8.0,8,0,12,12,Education,Qatar University,Masters,25.375,51.4906,18.57
+2022,5,3,8,2,1.0,3,7,4,11,Engineering and Technology,Community College Of Qatar,Bachelor,25.2658,51.5161,7.35
+2022,5,4,9,1,1.0,2,6,5,11,Engineering and Technology,Community College Of Qatar,Bachelor,25.2658,51.5161,7.35
+2022,31,123,154,128,68.0,196,159,191,350,Engineering and Technology,Qatar University,Bachelor,25.375,51.4906,7.35
+2022,8,0,8,0,0.0,0,8,0,8,Engineering and Technology,Qatar University,Masters,25.375,51.4906,7.35
+2022,0,1,1,3,4.0,7,3,5,8,Engineering and Technology,Qatar University,Masters,25.375,51.4906,7.35
+2022,0,0,0,4,2.0,6,4,2,6,Engineering and Technology,Qatar University,Masters,25.375,51.4906,7.35
+2022,5,2,7,7,7.0,14,12,9,21,Engineering and Technology,Qatar University,Masters,25.375,51.4906,7.35
+2022,0,0,0,0,4.0,4,0,4,4,Engineering and Technology,Qatar University,Masters,25.375,51.4906,7.35
+2022,0,0,0,6,0.0,6,6,0,6,Engineering and Technology,Qatar University,Masters,25.375,51.4906,7.35
+2022,0,0,0,1,3.0,4,1,3,4,Engineering and Technology,Qatar University,Masters,25.375,51.4906,7.35
+2022,0,0,0,0,1.0,1,0,1,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,7.35
+2022,0,0,0,1,0.0,1,1,0,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,7.35
+2022,0,0,0,0,1.0,1,0,1,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,7.35
+2022,2,1,3,2,0.0,2,4,1,5,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,7.35
+2022,0,0,0,1,0.0,1,1,0,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,7.35
+2022,0,0,0,1,0.0,1,1,0,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,7.35
+2022,0,0,0,2,0.0,2,2,0,2,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,7.35
+2022,16,0,16,0,0.0,0,16,0,16,Engineering and Technology,Ras Laffan College,Bachelor,25.8856,51.43,7.35
+2022,9,0,9,1,1.0,2,10,1,11,Engineering and Technology,University of Doha for Science and Technology,Bachelor,25.3604,51.481,7.35
+2022,13,1,14,23,1.0,24,36,2,38,Engineering and Technology,University of Doha for Science and Technology,Bachelor,25.3604,51.481,7.35
+2022,1,0,1,3,1.0,4,4,1,5,Engineering and Technology,University of Doha for Science and Technology,Bachelor,25.3604,51.481,7.35
+2022,3,40,43,12,34.0,46,15,74,89,Islamic Studies,Qatar University,Bachelor,25.375,51.4906,-17.65
+2022,0,0,0,3,3.0,6,3,3,6,Islamic Studies,Qatar University,Masters,25.375,51.4906,-17.65
+2022,1,3,4,1,3.0,4,2,6,8,Islamic Studies,Qatar University,Masters,25.375,51.4906,-17.65
+2022,0,4,4,3,1.0,4,3,5,8,Islamic Studies,Qatar University,Masters,25.375,51.4906,-17.65
+2022,0,0,0,1,0.0,1,1,0,1,Islamic Studies,Qatar University,Doctorate,25.375,51.4906,-17.65
+2022,57,244,301,17,29.0,46,74,273,347,Law and Legal Studies,Qatar University,Bachelor,25.375,51.4906,8.88
+2022,2,4,6,4,4.0,8,6,8,14,Law and Legal Studies,Qatar University,Masters,25.375,51.4906,8.88
+2022,9,8,17,1,1.0,2,10,9,19,Law and Legal Studies,Qatar University,Masters,25.375,51.4906,8.88
+2022,0,22,22,0,52.0,52,0,74,74,Medical and Health Science,Qatar University,Bachelor,25.375,51.4906,12.02
+2022,0,3,3,0,33.0,33,0,36,36,Medical and Health Science,Qatar University,Bachelor,25.375,51.4906,12.02
+2022,2,20,22,12,25.0,37,14,45,59,Medical and Health Science,Qatar University,Bachelor,25.375,51.4906,12.02
+2022,0,3,3,1,6.0,7,1,9,10,Medical and Health Science,Qatar University,Masters,25.375,51.4906,12.02
+2022,0,1,1,0,3.0,3,0,4,4,Medical and Health Science,Qatar University,Masters,25.375,51.4906,12.02
+2022,0,0,0,0,3.0,3,0,3,3,Medical and Health Science,Qatar University,Masters,25.375,51.4906,12.02
+2022,0,1,1,1,9.0,10,1,10,11,Medical and Health Science,Qatar University,Masters,25.375,51.4906,12.02
+2022,0,3,3,0,14.0,14,0,17,17,Medical and Health Science,Qatar University,Masters,25.375,51.4906,12.02
+2022,0,0,0,2,2.0,4,2,2,4,Medical and Health Science,Qatar University,Doctorate,25.375,51.4906,12.02
+2022,0,1,1,0,0.0,0,0,1,1,Medical and Health Science,Qatar University,Doctorate,25.375,51.4906,12.02
+2022,0,1,1,1,8.0,9,1,9,10,Medical and Health Science,University of Doha for Science and Technology,Bachelor,25.3604,51.481,12.02
+2022,0,2,2,1,8.0,9,1,10,11,Medical and Health Science,University of Doha for Science and Technology,Bachelor,25.3604,51.481,12.02
+2022,1,2,3,0,7.0,7,1,9,10,Medical and Health Science,University of Doha for Science and Technology,Bachelor,25.3604,51.481,12.02
+2022,0,1,1,0,8.0,8,0,9,9,Medical and Health Science,University of Doha for Science and Technology,Bachelor,25.3604,51.481,12.02
+2022,0,0,0,0,2.0,2,0,2,2,Medical and Health Science,University of Doha for Science and Technology,Masters,25.3604,51.481,12.02
+2022,179,428,607,17,25.0,42,196,453,649,Pre-University Diploma,Community College Of Qatar,Pre-University Diploma,25.2658,51.5161,-34.72
+2022,13,3,16,34,3.0,37,47,6,53,Pre-University Diploma,Qatar Aeronautical Academy,Pre-University Diploma,25.2799,51.5692,-34.72
+2022,14,0,14,1,0.0,1,15,0,15,Pre-University Diploma,Ras Laffan College,Pre-University Diploma,25.8856,51.43,-34.72
+2022,91,5,96,96,78.0,174,187,83,270,Pre-University Diploma,University of Doha for Science and Technology,Pre-University Diploma,25.3604,51.481,-34.72
+2023,0,1,1,0,4.0,4,0,5,5,Arabic Language & Literature,Qatar University,Masters,25.375,51.4906,-54.55
+2023,97,744,841,33,268.0,301,130,1012,1142,Arts,Qatar University,Bachelor,25.375,51.4906,-0.61
+2023,24,58,82,5,2.0,7,29,60,89,Business and Economics,Community College Of Qatar,Bachelor,25.2658,51.5161,4.43
+2023,39,27,66,2,0.0,2,41,27,68,Business and Economics,Community College Of Qatar,Bachelor,25.2658,51.5161,4.43
+2023,4,22,26,0,1.0,1,4,23,27,Business and Economics,Community College Of Qatar,Bachelor,25.2658,51.5161,4.43
+2023,10,16,26,0,3.0,3,10,19,29,Business and Economics,Community College Of Qatar,Bachelor,25.2658,51.5161,4.43
+2023,125,543,668,58,129.0,187,183,672,855,Business and Economics,Qatar University,Bachelor,25.375,51.4906,4.43
+2023,1,2,3,3,1.0,4,4,3,7,Business and Economics,Qatar University,Masters,25.375,51.4906,4.43
+2023,1,4,5,3,2.0,5,4,6,10,Business and Economics,Qatar University,Masters,25.375,51.4906,4.43
+2023,2,4,6,7,4.0,11,9,8,17,Business and Economics,Qatar University,Masters,25.375,51.4906,4.43
+2023,0,2,2,1,3.0,4,1,5,6,Business and Economics,Qatar University,Masters,25.375,51.4906,4.43
+2023,0,4,4,0,5.0,5,0,9,9,Business and Economics,Qatar University,Masters,25.375,51.4906,4.43
+2023,0,1,1,1,1.0,2,1,2,3,Business and Economics,Qatar University,Doctorate,25.375,51.4906,4.43
+2023,0,0,0,0,3.0,3,0,3,3,Business and Economics,Qatar University,Doctorate,25.375,51.4906,4.43
+2023,4,6,10,21,31.0,52,25,37,62,Business and Economics,University of Doha for Science and Technology,Bachelor,25.3604,51.481,4.43
+2023,1,0,1,5,9.0,14,6,9,15,Business and Economics,University of Doha for Science and Technology,Bachelor,25.3604,51.481,4.43
+2023,9,6,15,18,25.0,43,27,31,58,Business and Economics,University of Doha for Science and Technology,Bachelor,25.3604,51.481,4.43
+2023,5,9,14,9,30.0,39,14,39,53,Business and Economics,University of Doha for Science and Technology,Bachelor,25.3604,51.481,4.43
+2023,0,7,7,0,1.0,1,0,8,8,Business and Economics,University of Doha for Science and Technology,Masters,25.3604,51.481,4.43
+2023,16,13,29,3,2.0,5,19,15,34,Computer and Information Sciences,Community College Of Qatar,Bachelor,25.2658,51.5161,41.67
+2023,0,0,0,1,4.0,5,1,4,5,Computer and Information Sciences,Qatar University,Masters,25.375,51.4906,41.67
+2023,1,1,2,2,6.0,8,3,7,10,Computer and Information Sciences,Qatar University,Masters,25.375,51.4906,41.67
+2023,0,0,0,0,1.0,1,0,1,1,Computer and Information Sciences,Qatar University,Doctorate,25.375,51.4906,41.67
+2023,0,0,0,0,2.0,2,0,2,2,Computer and Information Sciences,Qatar University,Doctorate,25.375,51.4906,41.67
+2023,0,0,0,8,14.0,22,8,14,22,Computer and Information Sciences,University of Doha for Science and Technology,Bachelor,25.3604,51.481,41.67
+2023,4,4,8,14,6.0,20,18,10,28,Computer and Information Sciences,University of Doha for Science and Technology,Bachelor,25.3604,51.481,41.67
+2023,6,353,359,27,114.0,141,33,467,500,Education,Qatar University,Bachelor,25.375,51.4906,-0.71
+2023,0,0,0,0,1.0,1,0,1,1,Education,Qatar University,Diploma,25.375,51.4906,-0.71
+2023,0,3,3,0,3.0,3,0,6,6,Education,Qatar University,Diploma,25.375,51.4906,-0.71
+2023,0,2,2,3,5.0,8,3,7,10,Education,Qatar University,Diploma,25.375,51.4906,-0.71
+2023,1,0,1,5,1.0,6,6,1,7,Education,Qatar University,Diploma,25.375,51.4906,-0.71
+2023,0,1,1,8,4.0,12,8,5,13,Education,Qatar University,Diploma,25.375,51.4906,-0.71
+2023,0,2,2,0,6.0,6,0,8,8,Education,Qatar University,Masters,25.375,51.4906,-0.71
+2023,0,6,6,0,0.0,0,0,6,6,Education,Qatar University,Masters,25.375,51.4906,-0.71
+2023,0,3,3,0,4.0,4,0,7,7,Education,Qatar University,Masters,25.375,51.4906,-0.71
+2023,0,8,8,0,0.0,0,0,8,8,Engineering and Technology,Community College Of Qatar,Bachelor,25.2658,51.5161,50.88
+2023,12,2,14,0,1.0,1,12,3,15,Engineering and Technology,Community College Of Qatar,Bachelor,25.2658,51.5161,50.88
+2023,32,162,194,165,89.0,254,197,251,448,Engineering and Technology,Qatar University,Bachelor,25.375,51.4906,50.88
+2023,0,0,0,1,5.0,6,1,5,6,Engineering and Technology,Qatar University,Masters,25.375,51.4906,50.88
+2023,0,0,0,10,0.0,10,10,0,10,Engineering and Technology,Qatar University,Masters,25.375,51.4906,50.88
+2023,0,0,0,3,2.0,5,3,2,5,Engineering and Technology,Qatar University,Masters,25.375,51.4906,50.88
+2023,3,8,11,3,3.0,6,6,11,17,Engineering and Technology,Qatar University,Masters,25.375,51.4906,50.88
+2023,0,0,0,3,13.0,16,3,13,16,Engineering and Technology,Qatar University,Masters,25.375,51.4906,50.88
+2023,0,0,0,0,1.0,1,0,1,1,Engineering and Technology,Qatar University,Masters,25.375,51.4906,50.88
+2023,0,0,0,11,1.0,12,11,1,12,Engineering and Technology,Qatar University,Masters,25.375,51.4906,50.88
+2023,0,1,1,1,4.0,5,1,5,6,Engineering and Technology,Qatar University,Masters,25.375,51.4906,50.88
+2023,0,0,0,0,1.0,1,0,1,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,50.88
+2023,0,0,0,1,1.0,2,1,1,2,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,50.88
+2023,0,0,0,3,0.0,3,3,0,3,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,50.88
+2023,0,0,0,1,1.0,2,1,1,2,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,50.88
+2023,0,0,0,2,1.0,3,2,1,3,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,50.88
+2023,0,0,0,0,1.0,1,0,1,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,50.88
+2023,0,0,0,1,0.0,1,1,0,1,Engineering and Technology,Qatar University,Doctorate,25.375,51.4906,50.88
+2023,23,0,23,14,11.0,25,37,11,48,Engineering and Technology,Ras Laffan College,Bachelor,25.8856,51.43,50.88
+2023,1,0,1,0,0.0,0,1,0,1,Engineering and Technology,University of Doha for Science and Technology,Bachelor,25.3604,51.481,50.88
+2023,22,5,27,17,29.0,46,39,34,73,Engineering and Technology,University of Doha for Science and Technology,Bachelor,25.3604,51.481,50.88
+2023,2,2,4,27,18.0,45,29,20,49,Engineering and Technology,University of Doha for Science and Technology,Bachelor,25.3604,51.481,50.88
+2023,7,0,7,33,3.0,36,40,3,43,Engineering and Technology,University of Doha for Science and Technology,Bachelor,25.3604,51.481,50.88
+2023,6,49,55,5,36.0,41,11,85,96,Islamic Studies,Qatar University,Bachelor,25.375,51.4906,16.96
+2023,3,2,5,5,0.0,5,8,2,10,Islamic Studies,Qatar University,Masters,25.375,51.4906,16.96
+2023,0,2,2,2,7.0,9,2,9,11,Islamic Studies,Qatar University,Masters,25.375,51.4906,16.96
+2023,2,3,5,0,4.0,4,2,7,9,Islamic Studies,Qatar University,Masters,25.375,51.4906,16.96
+2023,2,1,3,2,0.0,2,4,1,5,Islamic Studies,Qatar University,Doctorate,25.375,51.4906,16.96
+2023,68,249,317,9,46.0,55,77,295,372,Law and Legal Studies,Qatar University,Bachelor,25.375,51.4906,7.89
+2023,4,10,14,1,2.0,3,5,12,17,Law and Legal Studies,Qatar University,Masters,25.375,51.4906,7.89
+2023,4,13,17,1,1.0,2,5,14,19,Law and Legal Studies,Qatar University,Masters,25.375,51.4906,7.89
+2023,2,0,2,0,0.0,0,2,0,2,Law and Legal Studies,Qatar University,Doctorate,25.375,51.4906,7.89
+2023,0,26,26,0,29.0,29,0,55,55,Medical and Health Science,Qatar University,Bachelor,25.375,51.4906,38.31
+2023,0,4,4,0,27.0,27,0,31,31,Medical and Health Science,Qatar University,Bachelor,25.375,51.4906,38.31
+2023,3,21,24,10,19.0,29,13,40,53,Medical and Health Science,Qatar University,Bachelor,25.375,51.4906,38.31
+2023,0,0,0,0,7.0,7,0,7,7,Medical and Health Science,Qatar University,Masters,25.375,51.4906,38.31
+2023,0,0,0,0,8.0,8,0,8,8,Medical and Health Science,Qatar University,Masters,25.375,51.4906,38.31
+2023,0,0,0,0,2.0,2,0,2,2,Medical and Health Science,Qatar University,Masters,25.375,51.4906,38.31
+2023,0,0,0,0,4.0,4,0,4,4,Medical and Health Science,Qatar University,Masters,25.375,51.4906,38.31
+2023,0,1,1,1,3.0,4,1,4,5,Medical and Health Science,Qatar University,Masters,25.375,51.4906,38.31
+2023,0,0,0,0,22.0,22,0,22,22,Medical and Health Science,Qatar University,Masters,25.375,51.4906,38.31
+2023,0,0,0,0,1.0,1,0,1,1,Medical and Health Science,Qatar University,Doctorate,25.375,51.4906,38.31
+2023,0,0,0,1,1.0,2,1,1,2,Medical and Health Science,Qatar University,Doctorate,25.375,51.4906,38.31
+2023,0,0,0,0,1.0,1,0,1,1,Medical and Health Science,Qatar University,Doctorate,25.375,51.4906,38.31
+2023,0,0,0,1,17.0,18,1,17,18,Medical and Health Science,University of Doha for Science and Technology,Bachelor,25.3604,51.481,38.31
+2023,0,3,3,2,13.0,15,2,16,18,Medical and Health Science,University of Doha for Science and Technology,Bachelor,25.3604,51.481,38.31
+2023,0,2,2,4,41.0,45,4,43,47,Medical and Health Science,University of Doha for Science and Technology,Bachelor,25.3604,51.481,38.31
+2023,1,1,2,4,3.0,7,5,4,9,Medical and Health Science,University of Doha for Science and Technology,Bachelor,25.3604,51.481,38.31
+2023,0,0,0,6,5.0,11,6,5,11,Medical and Health Science,University of Doha for Science and Technology,Bachelor,25.3604,51.481,38.31
+2023,0,4,4,5,19.0,24,5,23,28,Medical and Health Science,University of Doha for Science and Technology,Bachelor,25.3604,51.481,38.31
+2023,0,0,0,5,30.0,35,5,30,35,Medical and Health Science,University of Doha for Science and Technology,Bachelor,25.3604,51.481,38.31
+2023,0,1,1,0,3.0,3,0,4,4,Medical and Health Science,University of Doha for Science and Technology,Masters,25.3604,51.481,38.31
+2023,178,381,559,18,12.0,30,196,393,589,Pre-University Diploma,Community College Of Qatar,Pre-University Diploma,25.2658,51.5161,-11.45
+2023,29,5,34,35,3.0,38,64,8,72,Pre-University Diploma,Qatar Aeronautical Academy,Pre-University Diploma,25.2799,51.5692,-11.45
+2023,2,0,2,  ,0.0,9,11,0,11,Pre-University Diploma,Ras Laffan College ,Pre-University Diploma,25.8856,51.43,-11.45
+2023,60,8,68,87,47.0,134,147,55,202,Pre-University Diploma,University of Doha for Science and Technology,Pre-University Diploma,25.3604,51.481,-11.45
